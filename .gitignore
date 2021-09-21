@@ -1,0 +1,13 @@
+*~
+*.swp
+*.log
+
+/docs/
+/om/
+
+/__pycache__/
+
+target/
+Cargo.lock
+
+!.gitignore
