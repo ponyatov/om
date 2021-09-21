@@ -1,4 +1,4 @@
-//! # om
+//! # Object Memory (Smalltalk-like)
 // \ mod
 mod test;
 // / mod

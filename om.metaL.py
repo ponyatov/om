@@ -1,10 +1,10 @@
 ## @file
-## @brief meta: om
+## @brief meta: Object Memory (Smalltalk-like)
 
 from metaL import *
 
 p = Project(
-    title='''om''',
+    title='''Object Memory (Smalltalk-like)''',
     about='''''') \
     | Rust()
 

@@ -1,5 +1,5 @@
 PROJECT_NAME           = "om"
-PROJECT_BRIEF          = "om"
+PROJECT_BRIEF          = "Object Memory (Smalltalk-like)"
 PROJECT_LOGO           = doc/logo.png
 OUTPUT_DIRECTORY       =
 WARN_IF_UNDOCUMENTED   = NO

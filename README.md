@@ -1,5 +1,5 @@
 # ![logo](doc/logo.png) `om`
-## om
+## Object Memory (Smalltalk-like)
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2020 All rights reserved
 
